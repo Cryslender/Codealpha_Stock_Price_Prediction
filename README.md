@@ -1,7 +1,7 @@
 # Task 1: Predict Amazon Next Day Closing Price
 
 ## 1. Introduction
-This project aimed to predict the next day closing price for amazon stock price. The structured approach outlined below was followed to achieve this objective.
+This project aimed to predict the next day's closing price for Amazon stock price. The structured approach outlined below was followed to achieve this objective.
 
 ## 2. Ask Question
 The analytics process always begins with a question to be answered. In this project, the question pertains to the closing price of Amazon. Specifically, the query is: "What is the Amazon closing price for the next day?"
