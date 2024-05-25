@@ -23,6 +23,7 @@ In this project, the following steps were taken:
 *	Evaluated data skewness and observed positive skewness.
 *	Detected outliers, particularly in the Volume column.
 *	Handled outliers by utilizing winsorization for columns with high outlier values and logarithmic transformation for columns with small or no outliers.
+  
 These steps collectively ensure that the data is clean, organized, and ready for further analysis.
 ## 6. Analyze Data
 This step involves visualization tasks aimed at gaining more insight from the data. It encompasses Exploratory Data Analysis (EDA), where patterns, correlations, and relationships are visualized to gain a deeper understanding of the data. Through visualization, we aim to uncover insights and trends that may not be immediately apparent from the raw data, allowing for more informed analysis and decision-making.
